@@ -17,3 +17,6 @@ To get a result you need to install all necessary libraries (numpy, graphviz and
 
 ![this](https://user-images.githubusercontent.com/71669375/226099123-e7e2a463-c664-46c8-9bf2-06572cc0b3fe.png)
 
+#### ToDo
+Translate report in english.
+
